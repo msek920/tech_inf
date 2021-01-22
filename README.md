@@ -1,1 +1,2 @@
-# tech_inf
+Przedmiot: Technologie Informacyjne
+AiR - semestr 1.
