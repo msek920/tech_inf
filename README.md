@@ -1,2 +1,3 @@
 Przedmiot: Technologie Informacyjne
-AiR - semestr 1.
+AiR - semestr 1, rok 1.
+
